@@ -1,0 +1,122 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.header-nav {
+  background-color: #ffffff98;
+  position: fixed;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 32px;
+}
+.ul-nav {
+  list-style: none;
+  text-align: center;
+  width: 50%;
+}
+.ul-navr {
+  list-style: none;
+  text-align: center left;
+  width: 50%;
+}
+.li-nav {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  color: #6d7b93;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.li-navr {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  color: #3757d5;
+  font-size: 18px;
+  font-weight: bolder;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.section-f {
+  padding-top: 110px;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.btn-hoax {
+  padding: 14px 22px;
+  background: linear-gradient(to left, #3858d6, #2b4ec6);
+  color: #ffffff;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bolder;
+  border-style: none;
+  margin-right: 25px;
+}
+section{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.div-container{
+  background-color: #6d7b93;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.div-content{
+  width: 50%;
+  height: auto;
+  background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.cimg{
+  width: 100%;
+}
+.ch2{
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 72px;
+  color: #273572;
+}
+.cp1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 22px;
+  text-align: justify;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  color: #c7ccd6;
+}
+.div-cont-obj{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.icons{
+  width: 4%;
+  margin-top: 20%;
+  margin-left: 38%;
+  margin-right: 50%;
+}
+.div-conte{
+  vertical-align: middle;
+}
